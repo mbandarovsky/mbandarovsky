@@ -1,7 +1,7 @@
 ALGORITMO: conjunto de instruções e regras que um programa de computador (mas não apenas ele) possui para executar suas funções.  sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de resolver um problema ou executar uma tarefa.
 INTELIGÊNCIA ARTIFICIAL:é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas, incluindo a capacidade de ver, entender e traduzir idiomas falados e escritos, analisar dados, fazer recomendações e muito mais. 
 BANCO DE DADOS: é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. 
-REDE NEURAL ARTIFICIAL: écnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência.
+REDE NEURAL ARTIFICIAL: técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência.
 JURIMETRIA: é a aplicação de técnicas de análise quantitativa ao campo do Direito, sendo disciplina resultante da aplicação de modelos estatísticos na compreensão dos processos e fatos jurídicos
 https://www.significados.com.br/algoritmo/
 https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-br
