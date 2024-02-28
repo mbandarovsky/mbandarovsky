@@ -6,6 +6,7 @@ Registro de Atividades de Tratamento de Dados: A LGPD exige que os controladores
 Em resumo, os data centers no Brasil estão diretamente afetados pela LGPD devido ao papel crucial que desempenham no armazenamento e processamento de dados pessoais. Eles devem garantir a conformidade com os requisitos da lei, implementando medidas de segurança adequadas e colaborando com os controladores de dados para garantir a proteção e privacidade dos dados pessoais.
 Exemplos de formatos de arquivos de dados proprietários:Microsoft Excel (.xlsx),Adobe Photoshop (.psd),Autodesk AutoCAD (.dwg), Oracle Database Files (.dbf).
 Exemplos de formatos de arquivos de dados abertos:Comma-Separated Values (.csv),JavaScript Object Notation (.json),Portable Document Format (.pdf.
+Já sobre as implicações relacionadas a dados públicos: enquanto os dados proprietários são controlados por entidades privadas e podem ser utilizados para ganhos comerciais, os dados públicos são disponibilizados para promover a transparência, a inovação e o bem-estar público, mas também levantam empecilhos em relação à qualidade, privacidade e segurança. Um equilíbrio adequado entre os dois tipos de dados seria importante para promover o interesse público e a inovação, ao mesmo tempo em que tanto os direitos individuais quanto a segurança de dados são protegidos. 
 
 
 
