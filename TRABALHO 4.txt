@@ -1,1 +1,3 @@
-
+Python:  Amplamente reconhecida como uma das linguagens mais fáceis de aprender, Python tem uma sintaxe limpa e legível, o que a torna ideal para iniciantes. Além disso, possui uma vasta biblioteca padrão e uma grande comunidade de suporte.
+JavaScript: JavaScript é a linguagem de programação para desenvolvimento web front-end mais comum. Sua popularidade e utilidade em várias áreas do desenvolvimento web tornam uma escolha valiosa para iniciantes. Com o advento de frameworks e bibliotecas como React e Angular, JavaScript se tornou ainda mais acessível.
+Ruby: Ruby é conhecida por sua sintaxe simples e fácil de entender. Foi projetada com foco na produtividade do programador, o que a torna uma escolha popular para iniciantes.
